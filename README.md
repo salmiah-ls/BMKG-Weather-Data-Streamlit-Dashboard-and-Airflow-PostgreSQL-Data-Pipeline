@@ -2,4 +2,4 @@
 Link to dashboard: https://salmiahls-bmkg-weather-data-dashboard.streamlit.app/
 
 - BMKG Daily Weather Data Pipeline with Airflow and PostgreSQL (built with Docker)<br />
-![Airflow Dashboard Login Page](Airflow-login.png)
+<img src="Airflow-login.png" alt="Airflow Login Page" width="800"/>
